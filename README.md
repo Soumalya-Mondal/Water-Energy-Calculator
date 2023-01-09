@@ -4,4 +4,4 @@ I make this Water Enrgy Calculator using PyQt gui QTdesigner. This is not more l
 ![Screenshot_20230109_124251](https://user-images.githubusercontent.com/58221994/211257202-4fc2c33f-6d2e-46ed-bcee-4f31cc9e37cd.png)
 ![Screenshot_20230109_124304](https://user-images.githubusercontent.com/58221994/211257736-81408091-6f00-43ba-9ab1-953234af16c0.png)
 
-® By PyQt (Not made for commercial use)
+® GPLv3, which costs no money but requires that you distribute your software under the same terms. Those terms include that recipients are allowed to make changes and to redistribute the software (with or without changes).
