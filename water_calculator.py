@@ -1,3 +1,5 @@
+® By Soumalya Mondal ®
+
 from PyQt5 import QtCore, QtGui, QtWidgets
 from math import ceil, floor
 
